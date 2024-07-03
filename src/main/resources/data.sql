@@ -1,0 +1,4 @@
+INSERT INTO tb_funcionario(nome, designacao, salario, telefone, endereco)  VALUES('EVERTON DE ALMEIDA', 'ANALISTA', '1000.0', '112222-3344', 'Rua dos Sonhos 111');
+INSERT INTO tb_funcionario(nome, designacao, salario, telefone, endereco)  VALUES('JOÃO SILVA', 'ANALISTA ADMINISTRATIVO', '5000.0', '112222-3344', 'Av dos Desejos 555');
+INSERT INTO tb_funcionario(nome, designacao, salario, telefone, endereco)  VALUES('JULIA CORREIA', 'AUXILIAR', '1200.0', '112222-3344', 'Rua que tem sorte 456, Apt 99');
+INSERT INTO tb_funcionario(nome, designacao, salario, telefone, endereco)  VALUES('GUILHERME SANTOS', 'ESTAGIARIO', '3500.0', '112222-3344', 'Av das esperanças');
