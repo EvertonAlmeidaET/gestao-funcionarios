@@ -14,7 +14,7 @@ A aplicação consiste em cadastrar, consultar, excluir ou atualizar dados dos f
 - JPA / Hibernate
 - Maven
 - H2
-- 
+- Swagger
 # Como executar o projeto
 
 ## Back end
@@ -30,6 +30,10 @@ cd backend
 # executar o projeto
 ./mvnw spring-boot:run
 ```
+## Link da aplicação
+http://localhost:8080/funcionarios
+http://localhost:8080/h2-console
+http://localhost:8080/swagger-ui/index.html
 
 # Autor
 
