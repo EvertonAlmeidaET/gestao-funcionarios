@@ -1,4 +1,4 @@
-package everton.almeida.com.funcionario.model;
+package br.com.funcionario.model;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 import jakarta.persistence.*;

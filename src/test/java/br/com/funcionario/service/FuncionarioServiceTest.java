@@ -1,7 +1,7 @@
-package everton.almeida.com.funcionario.service;
+package br.com.funcionario.service;
 
-import everton.almeida.com.funcionario.model.Funcionario;
-import everton.almeida.com.funcionario.repository.FuncionarioRepository;
+import br.com.funcionario.model.Funcionario;
+import br.com.funcionario.repository.FuncionarioRepository;
 import org.junit.Before;
 import org.junit.Test;
 import org.mockito.InjectMocks;

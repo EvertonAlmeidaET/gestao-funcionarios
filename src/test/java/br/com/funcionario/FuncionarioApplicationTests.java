@@ -1,4 +1,4 @@
-package everton.almeida.com.funcionario;
+package br.com.funcionario;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

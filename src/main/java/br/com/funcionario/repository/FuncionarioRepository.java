@@ -1,6 +1,6 @@
-package everton.almeida.com.funcionario.repository;
+package br.com.funcionario.repository;
 
-import everton.almeida.com.funcionario.model.Funcionario;
+import br.com.funcionario.model.Funcionario;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 public interface FuncionarioRepository extends JpaRepository<Funcionario, Long> {

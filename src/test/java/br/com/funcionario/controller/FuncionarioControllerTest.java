@@ -1,7 +1,7 @@
-package everton.almeida.com.funcionario.controller;
+package br.com.funcionario.controller;
 
-import everton.almeida.com.funcionario.model.Funcionario;
-import everton.almeida.com.funcionario.service.FuncionarioService;
+import br.com.funcionario.model.Funcionario;
+import br.com.funcionario.service.FuncionarioService;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.mockito.InjectMocks;
